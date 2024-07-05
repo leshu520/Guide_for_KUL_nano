@@ -6,3 +6,5 @@ Local学生别来申请鲁汶了，投入多产出少没意思。
 2. Nanostructured Bio-Macromolecules: 刷past year papers。
 3. Chemistry at Nanometer Scale: 看课件，刷往年题。
 4. Technology for integrated System Advanced: 看slides。
+## Acknowledgement
+感谢各位2022，2023届nanotechnology的同仁参与和修改了这些复习攻略
